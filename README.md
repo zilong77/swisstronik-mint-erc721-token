@@ -8,11 +8,11 @@ Testnet link : [HERE](https://www.swisstronik.com/testnet2/dashboard)
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/swisstronik-erc721-mint-token.git
+git clone https://github.com/zilong77/swisstronik-mint-erc721-token.git
 ```
 
 ```
-cd swisstronik-erc721-mint-token
+cd swisstronik-mint-erc721-token
 ```
 
 ### 2. Install Dependency
